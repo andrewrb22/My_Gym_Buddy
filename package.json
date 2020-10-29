@@ -9,11 +9,19 @@
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
   },
-  "author": "",
+  "author": "Andrew Rodriguez",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewrb22/My_Gym_Buddy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrewrb22/My_Gym_Buddy/issues"
+  },
+  "homepage": "https://github.com/andrewrb22/My_Gym_Buddy#readme"
 }
